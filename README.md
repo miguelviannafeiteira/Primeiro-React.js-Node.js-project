@@ -5,10 +5,9 @@
 
 <div>
   <h1 align="center">Layout do Site</h1>
-   <img src="./imagens/add.png" width=450> 
-   <img src="" width=450> 
-   <img src="." width=450>
-   <img src="" width=450>
+   <img src="./imagens/home.png" width=450> 
+   <img src="./imagens/editing.png" width=450> 
+   <img src="./imagens/add.png" width=450>
 </div>
 
 <div>
