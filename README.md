@@ -20,17 +20,17 @@ No projeto concluído é possível adicionar link de vídeos, com títulos, pode
     <li>JavaScript</li>  
     <li>React.js</li> 
     <ul>
-    <li>Axios</li>
-    <li>React Icons</li>
-    <li>SWR</li>
-    <li>Styled Components</li>
+      <li>Axios</li>
+      <li>React Icons</li>
+      <li>SWR</li>
+      <li>Styled Components</li>
     </ul>
     <li>Node.js</li>  
     <ul>
-    <li>Express</li>
-    <li>Mongoose</li>
-    <li>uui</li>
-    <li>cors</li>
+      <li>Express</li>
+      <li>Mongoose</li>
+      <li>uui</li>
+      <li>cors</li>
     </ul>
     <li>HTML</li>
     <li>CSS</li>
