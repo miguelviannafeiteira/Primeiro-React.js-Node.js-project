@@ -3,7 +3,6 @@ import FormModal from '../components/FormModal'
 import { useAxios } from '../hooks/useAxios'
 import api from '../services/api'
 
-export const VideoContext = createContext()
 
 // eslint-disable-next-line react/prop-types
 export function VideoContextProvider ({ children }) {
